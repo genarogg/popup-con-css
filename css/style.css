@@ -61,3 +61,11 @@ html{
     transition: all 600ms;
     background: white;
 }
+
+.img{
+
+    width: 40%;
+    background-image: url("../img/t90.jpg");
+    background-size: cover;
+    background-position: center;
+}
