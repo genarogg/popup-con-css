@@ -34,3 +34,10 @@ html{
     
     
 }
+
+.containerAll:target{
+    background: rgba(0,0,0,.8);
+    visibility: visible;
+    opacity: 1;
+}
+
