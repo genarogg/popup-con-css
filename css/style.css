@@ -41,3 +41,10 @@ html{
     opacity: 1;
 }
 
+.containerAll:target .popup{
+    top:50%;
+    left: 50%;
+    transform: rotate(0deg) translate(-50%, -50%);
+    visibility: visible;
+}
+
