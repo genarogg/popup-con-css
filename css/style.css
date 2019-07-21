@@ -69,3 +69,20 @@ html{
     background-size: cover;
     background-position: center;
 }
+
+.containerText{
+    width: 60%;
+    padding: 50px;
+    overflow-y: auto;
+}
+
+.containerText h1{
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.containerText p{
+    margin-top: 20px;
+    font-size: 16px;
+}
+
