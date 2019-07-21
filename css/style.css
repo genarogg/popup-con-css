@@ -48,3 +48,16 @@ html{
     visibility: visible;
 }
 
+.popup{
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    position: relative;
+    display: flex;
+    visibility: hidden;
+    top: -80%;
+    left: -80%;
+    transform: rotate(90deg) translate(-150%, 230%);
+    transition: all 600ms;
+    background: white;
+}
