@@ -118,3 +118,9 @@ html{
     }
 }
 
+@media screen and (max-width: 900px){
+    .containerText{
+        padding: 20px;
+    }
+
+}
