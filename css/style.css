@@ -23,3 +23,14 @@ html{
     border-radius: 50px;
 }
 
+.containerAll{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    transition: all 600ms;
+    visibility: hidden;
+    opacity: 0;
+    padding: 40px;
+    
+    
+}
